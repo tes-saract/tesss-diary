@@ -1,9 +1,10 @@
-baseURL = "https://tes-saract.github.io/tesss-diary/"
+baseURL = "https://tes-saract.github.io"
 languageCode = "en-us"
 title = "tess' diary"
 
 theme = "paperesque"
 
+# Dummy code
 # We're building drafts in config so that you can see them in the example on
 # Hugo Themes; you almost certainly don't want this on your production site
 buildDrafts = false
