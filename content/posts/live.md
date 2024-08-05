@@ -11,4 +11,4 @@ AAAAAAAAA
 
 ---
 
-Also had a really productive day working on R coding today and things that weren't working last week finally clicked into place, I guess today is just a lucky day for my software development skills hehe
+Looking at the site now that it's up properly and with a critical eye, god I need to add more pictures. Also had a really productive day working on R coding today and things that weren't working last week finally clicked into place, I guess today is just a lucky day for my software development skills hehe

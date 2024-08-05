@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/living-on-stolen-land.md",
+                "file": "posts/live.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/living-on-stolen-land.md",
+                "file": "posts/live.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/living-on-stolen-land.md",
+                "file": "posts/live.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/living-on-stolen-land.md"
+                "file": "posts/live.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "8dac08fe5fb02a2f",
   "lastOpenFiles": [
-    "posts/a-magical-girl-retires.md",
     "posts/living-on-stolen-land.md",
+    "posts/a-magical-girl-retires.md",
     "posts/live.md",
     "posts/LivingOnStolenLandCover.png",
     "posts/sunburn.md",
