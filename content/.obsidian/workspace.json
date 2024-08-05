@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "ea111c2acf822449",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3152c9c80b5db75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dac08fe5fb02a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/living-on-stolen-land.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c2b5589cac985ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "be4959d743345c47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63cb61f97f685ac0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c6007dba2fa0aea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f3deda6a56ae1b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cec43c89c0375bd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "88f4312fcfa1aa49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b40552017ad1fa4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/living-on-stolen-land.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1bb939e4174fbf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/living-on-stolen-land.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52ac307e08a274c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7adb4661dd31921",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/living-on-stolen-land.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8dac08fe5fb02a2f",
+  "lastOpenFiles": [
+    "posts/a-magical-girl-retires.md",
+    "posts/living-on-stolen-land.md",
+    "posts/live.md",
+    "posts/LivingOnStolenLandCover.png",
+    "posts/sunburn.md",
+    "posts/the-autobiography-of-malcolm-x.md",
+    "posts/the-dawnhounds.md",
+    "posts/the-enchanted-april.md",
+    "posts/the-straight-mind.md",
+    "posts/the-goode-governor.md",
+    "about/index.md",
+    "about/ILayDownMyLifeForYou.mp3",
+    "about/JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU - 13 Don't Put Anything On the Bible (feat. Buzzy Lee).mp3"
+  ]
+}

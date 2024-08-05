@@ -12,7 +12,7 @@ categories: books
 comment: false
 draft: true
 ---
-> Just full spoilers in this one, it's too hard to talk about the world without them.
+> Just full spoilers in this one, it's too hard to talk about the world without them. This is also a book that my thoughts about will definitely likely change once the sequel comes out - there was a lot of time spent on worldbuilding, mystery, and characterisation that was done really interestingly but didn't pay out in this book and I'm not yet certain if I enjoyed that fully or not.
 
 \
 \

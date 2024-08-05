@@ -9,6 +9,7 @@ tags:
 featured_image: /images/TheAutobiographyOfMalcolmXCover.jpg
 categories: books
 comment: false
+draft: true
 ---
 > "Each day I live as if I am already dead, and I tell you what I would like for you to do. When I *am* dead - I say it that way because of the things I *know*, I do not expect to live long enough to read this book in its finished form - I want you to watch and see if I'm not right in what I say: that the white man, in his press, is going to identify me with 'hate'...
 >
