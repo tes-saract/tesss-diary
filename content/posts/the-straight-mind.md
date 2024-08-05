@@ -1,0 +1,36 @@
+---
+title: The Straight Mind
+date: 2024-07-05
+description: By Monique Wittig. Deeply interesting and revolutionary essays, Witting also very obviously never met a trans person.
+tags:
+  - non-fiction
+  - queer
+  - essays
+  - feminism
+featured_image: /images/the-straight-mind-cover.jpg
+categories: books
+comment: false
+---
+Being completely upfront here this is not going to be the most detailed reflection on Wittig's essays, it took me a bit to finish this whole collection and I didn't think to make notes or start this diary until I was a few months past finishing the earlier ones. Unfortunately, as well, the later essays in the collection did lose me somewhat as they begin to discuss a lot more of the literary craft and specifically with reference to some other authors at the time as well as Wittig's own work in a way that I just did not have the background to understand.
+
+As a whole, I had a lot of broader takeaways from the book in two major categories, firstly about the ways in which gender is structured in relation to heterosexuality and the second in the ways gender (and thus heterosexuality) is enforced. These are definitely some of the major points - at least in my understanding of the text - and I think Wittig does a really good job in unravelling some of the starker specifics related to both of these points.
+
+One thing I definitely did think was interesting throughout, however, was the multitude of ways in which Wittig came so close to describing or reflecting on trans existence, from an author who (at least from just my takeaways from this book) seemed to have never met a trans person. This is only especially interesting because so much of this work, especially The Straight Mind, is on how gender itself is an inherently heteronormative construct which shapes so much of how we as a society and individuals are able to conceive of gender. 
+
+In a space and time when Witting was introducing this concept and it was as such ground breaking, the 'blinders' of the straight mind meant indeed that Wittig could not conceive of what gender looks like fully constructed outside of cis society - and for as much as she writes of sexuality as identity I do think having not written about the conception of gender outside of a cishet worldview is something she crucially missed. That is to say, beyond a world where lesbians exist outside of heterosexuality and thus gender, there is instead room for a far broader category of people (everyone, really) to interrogate their own experiences of gender and through such the potential for a society liberated from heterosexuality and gender as political force. And further, it is the existence of the vast range of gender diversity from transgender people - or people with similar lived experiences in different cultural contexts - across the globe that highlights how truly this is possible.
+
+There's a section in one of her later essays (again no notes on this book unfortunately so idr when) where she almost like reinvents enbys in like an odd form of convergent evolution; she is not expressing her own lived experience or feelings here - not to comment on if she perhaps felt this way but that is just not discussed - but instead reflecting on the violence inherent in heterosexual gender, with particular reference to language and the use of the singular they as an ungendered pronoun. It's definitely really interesting stuff though this is also one of the essays which are a lot more referential to her previous works, centrally The Opoponax, which uses "one" as the central pronoun for all of its characters (I think, I haven't read it and am now going off my memory of her discussion of it in this book instead). I'd probably have more thoughts if I had made notes notes, but it was kind of crazy to read today.
+
+My one unfortunate note on this book, however, is the aligning of the Atlantic slave trade and gendered oppression. It's a little (read: extremely) uncomfortable as a comparison, and I especially think it is one that is centrally problematic because it glosses over the experiences of women and lesbians of colour and especially those in slavery. In essence if we are to view the violence of gender as slavery, where do we leave room for those who experience both? Do or did lesbian slaves during the Atlantic slave trade experience an effect equal to that of male slaves? I would say it is obvious that the answer is no. 
+
+Also note this is specifically an issue, in my mind, because of her reference to slavery as an American institution - she could have talked about Marx or someone else idk to make the same point about indentured servitude or compare the unpaid labour women do to complaints about other forms of slavery (non-chattel if she really had to?), but this tie specifically brings to much more baggage and as said, crucially eliminates room to discuss the experiences of enslaved women and lesbians. In writing this I tried to think through some of the other comparison that could be made here, e.g. wage slavery, debt bondage, etc., but really I think the ways in which heterosexuality structures gender and through this the experiences of people who are/were perceived as women express in such manifestly unique ways that cannot really be compared to any other specific aspect of slavery - indeed I also think as the inverse of this point that it loses some of the ways in which heterosexuality oppresses to make such a comparison. This came up a few times throughout the book, and is definitely one of the more notable limits to her approach throughout these essays.
+
+There's more I could talk about apart from these things (e.g. space for bi women? not that I can really see), and I could expand on how these theories can function in a society that tries to recognise trans people, but really I think the central point is that there's value in these essays and her perspective - but ultimately it is a historical one and not something that we should try embody perfectly today. Lots to think about though.
+
+## Random Notes
+
+"A text by a minority writer is effective only if it succeeds in making the minority point of view universal". This one is realllly interesting, as is the whole essay it is from - The Universal and the Particular - too. I don't think I agree but in the context of the essay it makes a lot more sense (that is to say, the quote alone doesn't give the full perspective I think), I might have to re-read but the way it conflicts a lot of her other thoughts on basically lesbian separatism is very interesting. 
+
+"The refusal to become (or to remain) heterosexual always meant to refuse to become a man or a woman, consciously or not." Hell ye.
+
+"Lesbian is the only concept I know of which is beyond the categories of sex (woman and man), because the designated subject (lesbian) is not a woman, either economically, or politically, or ideologically." So much of my notes on these essays are here I think - the discussion of lesbianism existing outside of the essentially heterosexual definitions of binary gender is very interesting, but Wittig definitely writes about it from distinctly her perspective without much room for outside consideration.
