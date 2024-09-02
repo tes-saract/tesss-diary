@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>History on tess&#39; diary</title>
-    <link>https://tes-saract.github.io/tags/history/</link>
+    <link>http://localhost:1313/tags/history/</link>
     <description>Recent content in History on tess&#39; diary</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jul 2024 14:01:58 +1000</lastBuildDate>
-    <atom:link href="https://tes-saract.github.io/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Autobiography of Malcolm x</title>
-      <link>https://tes-saract.github.io/posts/the-autobiography-of-malcolm-x/</link>
+      <link>http://localhost:1313/posts/the-autobiography-of-malcolm-x/</link>
       <pubDate>Mon, 15 Jul 2024 14:01:58 +1000</pubDate>
-      <guid>https://tes-saract.github.io/posts/the-autobiography-of-malcolm-x/</guid>
+      <guid>http://localhost:1313/posts/the-autobiography-of-malcolm-x/</guid>
       <description>&amp;ldquo;Each day I live as if I am already dead, and I tell you what I would like for you to do. When I am dead - I say it that way because of the things I know, I do not expect to live long enough to read this book in its finished form - I want you to watch and see if I&amp;rsquo;m not right in what I say: that the white man, in his press, is going to identify me with &amp;lsquo;hate&amp;rsquo;&amp;hellip;</description>
     </item>
   </channel>

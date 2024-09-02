@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tess&#39; diary</title>
-    <link>https://tes-saract.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on tess&#39; diary</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tes-saract.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Sep 2024 09:10:45 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Enchanted April</title>
-      <link>https://tes-saract.github.io/posts/the-enchanted-april/</link>
+      <title>The Books I Read In August</title>
+      <link>http://localhost:1313/posts/august-books/</link>
+      <pubDate>Sun, 01 Sep 2024 09:10:45 +1000</pubDate>
+      <guid>http://localhost:1313/posts/august-books/</guid>
+      <description>The Oleander Sword1 by Tasha Suri — 🌕🌕🌕🌕🌗:&#xA;This month was somewhat of an attempt at finishing off a few series that I&amp;rsquo;ve had on the backburner for a while, and starting that off The Oleander Sword (sequel to The Jasmine Throne) did not disappoint at all. Almost every aspect of this book built amazingly off the first, the pacing was great and didn&amp;rsquo;t lose any tension despite being a &amp;ldquo;middle book&amp;rdquo; of a duology, and the changes in the ways in which the Ahiranyan people viewed the Yaksa (without giving any major spoilers) set up some amazing tension for the final books.</description>
+    </item>
+    <item>
+      <title>Yellowface</title>
+      <link>http://localhost:1313/posts/yellowface/</link>
+      <pubDate>Thu, 08 Aug 2024 22:43:48 +1000</pubDate>
+      <guid>http://localhost:1313/posts/yellowface/</guid>
+      <description>There&amp;rsquo;s a lot of discourse around this book, which I think considering its content and focus really highlights how well written it is - Yellowface is an amazing book and I think a huge part of that is how it forces its audience into engaging with its themes. Kuang is not at all passive in her representation of themes throughout the book through the ways in which June is blatantly racist from the first chapter to the last, the perversive voyeurism of the omnipresent &amp;ldquo;audience&amp;rdquo; and the relationship to authorial identity and &amp;ldquo;honesty&amp;rdquo;, and the ways in which the publishing industry works to further oppress marginalised writers and audiences.</description>
+    </item>
+    <item>
+      <title>I find another book written before the 1960s and shock myself by enjoying it</title>
+      <link>http://localhost:1313/posts/the-enchanted-april/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://tes-saract.github.io/posts/the-enchanted-april/</guid>
-      <description>Every time I read a book written before the 20th century I am kind of always surprised by how funny they are and that probably says a lot about me as a person. Especially this and Emma (by Jane Austen) are both some of the funniest books I have read in such a long time that at this point I probably shouldn&amp;rsquo;t be shocked.&#xA;I don&amp;rsquo;t have a huge number of thoughts about the book, but it was hilariously and beautifully written - I adored the four main characters who were all deeply interesting and unique, especially of these Lotte and Lady Charlotte were probably my two favourite characters in the text.</description>
+      <guid>http://localhost:1313/posts/the-enchanted-april/</guid>
+      <description>Every time I read a book written before like the 1960s I am kind of always surprised by how funny they are and that probably says a lot about me as a person. Especially this and Emma (by Jane Austen) are both some of the funniest books I have read in such a long time that at this point I probably shouldn&#39;t be shocked. I don&amp;rsquo;t have a huge number of particularly deep or analyticaly thoughts about the book, but it was hilariously and beautifully written - I adored the four main characters who were all deeply interesting and unique, especially of these Lotte and Lady Charlotte were probably my two favourite characters in the text.</description>
     </item>
     <item>
-      <title>The Autobiography of Malcolm x</title>
-      <link>https://tes-saract.github.io/posts/the-autobiography-of-malcolm-x/</link>
-      <pubDate>Mon, 15 Jul 2024 14:01:58 +1000</pubDate>
-      <guid>https://tes-saract.github.io/posts/the-autobiography-of-malcolm-x/</guid>
-      <description>&amp;ldquo;Each day I live as if I am already dead, and I tell you what I would like for you to do. When I am dead - I say it that way because of the things I know, I do not expect to live long enough to read this book in its finished form - I want you to watch and see if I&amp;rsquo;m not right in what I say: that the white man, in his press, is going to identify me with &amp;lsquo;hate&amp;rsquo;&amp;hellip;</description>
-    </item>
-    <item>
-      <title>A Magical Girl Retires</title>
-      <link>https://tes-saract.github.io/posts/a-magical-girl-retires/</link>
+      <title>&#39;A Magical Girl Retires&#39; as a Reformation of the Magical Girl Genre</title>
+      <link>http://localhost:1313/posts/a-magical-girl-retires/</link>
       <pubDate>Tue, 09 Jul 2024 14:01:58 +1000</pubDate>
-      <guid>https://tes-saract.github.io/posts/a-magical-girl-retires/</guid>
-      <description>To anyone thinking if they should read this (I vote yes), go read the synopsis, it perfectly conveys the what and why of reading this. In fact, if you want you could put this down (my writing is a lot worse than Seolyeon&amp;rsquo;s, and Anton Hur&amp;rsquo;s translation) and go finish AMGR first - it&amp;rsquo;s quite short.&#xA;A brief note, I&amp;rsquo;m not the most into the magical girl genre as a whole really, I&amp;rsquo;d probably consider myself more involved than like an average person but considering I write a bit here about the genre&amp;rsquo;s history I want to preface that I might be off on some of these points.</description>
-    </item>
-    <item>
-      <title>The Goode Governor</title>
-      <link>https://tes-saract.github.io/posts/the-goode-governor/</link>
-      <pubDate>Mon, 08 Jul 2024 02:01:58 +0530</pubDate>
-      <guid>https://tes-saract.github.io/posts/the-goode-governor/</guid>
-      <description>One of many queer romance novels I&amp;rsquo;ve read recently, but the one I felt like writing about, The Goode Governor (awful name aside like come on) actually surprised me a lot. Centrally in portraying two highly intelligent and motivated queer women which is something that really I don&amp;rsquo;t see much in any romance novels. Reflecting on this, it feels like a lot of the time there is one smart/motivated character in the couple and the other it there to play a foil to them.</description>
+      <guid>http://localhost:1313/posts/a-magical-girl-retires/</guid>
+      <description>To anyone thinking if they should read this (I vote yes), go read the synopsis, it perfectly conveys the what and why of reading this. In fact, if you want you could put this down (my writing is a lot worse than Seolyeon&amp;rsquo;s, and Anton Hur&amp;rsquo;s translation) and go finish the book first - it&amp;rsquo;s quite short.&#xA;A brief note, I&amp;rsquo;m not the most into the magical girl genre as a whole really, I&amp;rsquo;d probably consider myself more involved than like an average person but considering I write a bit here about the genre&amp;rsquo;s history I want to preface that I might be off on some of these points.</description>
     </item>
     <item>
       <title>The Straight Mind</title>
-      <link>https://tes-saract.github.io/posts/the-straight-mind/</link>
+      <link>http://localhost:1313/posts/the-straight-mind/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://tes-saract.github.io/posts/the-straight-mind/</guid>
+      <guid>http://localhost:1313/posts/the-straight-mind/</guid>
       <description>Being completely upfront here this is not going to be the most detailed reflection on Wittig&amp;rsquo;s essays, it took me a bit to finish this whole collection and I didn&amp;rsquo;t think to make notes or start this diary until I was a few months past finishing the earlier ones. Unfortunately, as well, the later essays in the collection did lose me somewhat as they begin to discuss a lot more of the literary craft and specifically with reference to some other authors at the time as well as Wittig&amp;rsquo;s own work in a way that I just did not have the background to understand.</description>
     </item>
     <item>
-      <title>Sunburn</title>
-      <link>https://tes-saract.github.io/posts/sunburn/</link>
+      <title>Here Comes the Sun; Internalised homophobia, rural culture and the environment in Sunburn</title>
+      <link>http://localhost:1313/posts/sunburn/</link>
       <pubDate>Thu, 04 Jul 2024 02:01:58 +0530</pubDate>
-      <guid>https://tes-saract.github.io/posts/sunburn/</guid>
-      <description>From start to finish, the environment in Sunburn is perhaps more of an expression and representation of Lucy&amp;rsquo;s feelings and emotions than anything else we see from her. And this is not to say that we do not get a deep exploration of her thoughts and feelings throughout the text, but rather that the imagery of her rural environment, especially the titular sun, is so importantly a part of her thoughts and feelings that it is impossible to separate the two.</description>
+      <guid>http://localhost:1313/posts/sunburn/</guid>
+      <description>The third book which I&amp;rsquo;ve rated 10/10 with sun in its title (see: She Who Became the Sun, Klara and the Sun); Sunburn is a heart wrenching exploration of childhood and early adulthood in a deeply traditional, rural Irish upbringing. There is so much to talk about from this book and I adored it deeply, but something about it just made me really want to write about the way it uses the environment.</description>
     </item>
     <item>
       <title></title>
-      <link>https://tes-saract.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tes-saract.github.io/about/</guid>
-      <description>about me i like to learn, analyse, and understand. slowly shaping myself. 🏳️‍⚧️🧡🤍🩷&#xA;pices sun, sagittarius moon, and aries rising&#xA;what am I doing now? (updated july 20th, 2024)&#xA;🔬 research assistant at procan proteomics 📖 aiming to read 200 books in 2024. please do recommend more 🎮 currently playing through cyberpunk 2077 (very slowly) 💻 learning how website things work (hugo) to build this blog! music albums i&amp;rsquo;m listening to</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>about me i like to learn, analyse, and understand. slowly shaping myself. 🏳️‍⚧️🧡🤍🩷&#xA;Pisces sun, Sagittarius moon, and Aries rising&#xA;what am I doing now? (updated July 20th, 2024)&#xA;🔬 research assistant at ProCan 📖 aiming to read 200 books in 2024. please do recommend more 🎮 currently playing through Cyberpunk 2077 (very slowly) 💻 learning how website things work (Hugo, Vercel ) to build this blog! music albums i&amp;rsquo;m listening to</description>
     </item>
     <item>
       <title>contact me</title>
-      <link>https://tes-saract.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tes-saract.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>if for some reason you need my details&#xA;email discord </description>
     </item>
   </channel>

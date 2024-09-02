@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/live.md",
+                "file": "posts/august-books.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/live.md",
+                "file": "posts/august-books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/live.md",
+                "file": "posts/august-books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/live.md"
+                "file": "posts/august-books.md"
               }
             }
           }
@@ -148,18 +148,38 @@
   },
   "active": "8dac08fe5fb02a2f",
   "lastOpenFiles": [
-    "posts/living-on-stolen-land.md",
-    "posts/a-magical-girl-retires.md",
-    "posts/live.md",
-    "posts/LivingOnStolenLandCover.png",
+    "posts/Edgedancer.jpg",
+    "posts/Edgedancer.jpg.crdownload",
+    "posts/TheDeadCatTailAssassins.png",
+    "posts/TheDeadCatTailAssassins.png.crdownload",
+    "posts/NearToTheWildHeart.jpg",
+    "posts/NearToTheWildHeart.jpg.crdownload",
+    "posts/KissOfSeduction.jpg",
+    "posts/KissOfSeduction.jpg.crdownload",
+    "posts/RainbowBlack.jpg",
+    "posts/RainbowBlack.jpg.crdownload",
+    "posts/GoodeNews.jpg",
+    "posts/GoodeNews.jpg.crdownload",
+    "posts/Earthlings.jpg",
+    "posts/Earthlings.jpg.crdownload",
+    "posts/JadeLegacy.jpg",
+    "posts/GuavaFlavoredLies.jpg",
+    "posts/GuavaFlavoredLies.jpg.crdownload",
+    "posts/JadeWar.jpg",
+    "posts/JadeWar.jpg.crdownload",
+    "posts/SomethingToTalkAbout.jpg",
+    "posts/SomethingToTalkAbout.jpg.crdownload",
     "posts/sunburn.md",
-    "posts/the-autobiography-of-malcolm-x.md",
-    "posts/the-dawnhounds.md",
+    "posts/living-on-stolen-land.md",
+    "posts/august-books.md",
     "posts/the-enchanted-april.md",
-    "posts/the-straight-mind.md",
+    "posts/a-magical-girl-retires.md",
+    "posts/yellowface.md",
     "posts/the-goode-governor.md",
-    "about/index.md",
-    "about/ILayDownMyLifeForYou.mp3",
-    "about/JPEGMAFIA - I LAY DOWN MY LIFE FOR YOU - 13 Don't Put Anything On the Bible (feat. Buzzy Lee).mp3"
+    "posts/the-dawnhounds.md",
+    "posts/the-autobiography-of-malcolm-x.md",
+    "posts/live.md",
+    "posts/the-straight-mind.md",
+    "about/index.md"
   ]
 }

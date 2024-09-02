@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classics on tess&#39; diary</title>
-    <link>https://tes-saract.github.io/tags/classics/</link>
+    <link>http://localhost:1313/tags/classics/</link>
     <description>Recent content in Classics on tess&#39; diary</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tes-saract.github.io/tags/classics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/classics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Enchanted April</title>
-      <link>https://tes-saract.github.io/posts/the-enchanted-april/</link>
+      <title>I find another book written before the 1960s and shock myself by enjoying it</title>
+      <link>http://localhost:1313/posts/the-enchanted-april/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://tes-saract.github.io/posts/the-enchanted-april/</guid>
-      <description>Every time I read a book written before the 20th century I am kind of always surprised by how funny they are and that probably says a lot about me as a person. Especially this and Emma (by Jane Austen) are both some of the funniest books I have read in such a long time that at this point I probably shouldn&amp;rsquo;t be shocked.&#xA;I don&amp;rsquo;t have a huge number of thoughts about the book, but it was hilariously and beautifully written - I adored the four main characters who were all deeply interesting and unique, especially of these Lotte and Lady Charlotte were probably my two favourite characters in the text.</description>
+      <guid>http://localhost:1313/posts/the-enchanted-april/</guid>
+      <description>Every time I read a book written before like the 1960s I am kind of always surprised by how funny they are and that probably says a lot about me as a person. Especially this and Emma (by Jane Austen) are both some of the funniest books I have read in such a long time that at this point I probably shouldn&#39;t be shocked. I don&amp;rsquo;t have a huge number of particularly deep or analyticaly thoughts about the book, but it was hilariously and beautifully written - I adored the four main characters who were all deeply interesting and unique, especially of these Lotte and Lady Charlotte were probably my two favourite characters in the text.</description>
     </item>
   </channel>
 </rss>

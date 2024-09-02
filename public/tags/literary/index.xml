@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Literary on tess&#39; diary</title>
-    <link>https://tes-saract.github.io/tags/literary/</link>
+    <link>http://localhost:1313/tags/literary/</link>
     <description>Recent content in Literary on tess&#39; diary</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jul 2024 02:01:58 +0530</lastBuildDate>
-    <atom:link href="https://tes-saract.github.io/tags/literary/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/literary/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sunburn</title>
-      <link>https://tes-saract.github.io/posts/sunburn/</link>
+      <title>Here Comes the Sun; Internalised homophobia, rural culture and the environment in Sunburn</title>
+      <link>http://localhost:1313/posts/sunburn/</link>
       <pubDate>Thu, 04 Jul 2024 02:01:58 +0530</pubDate>
-      <guid>https://tes-saract.github.io/posts/sunburn/</guid>
-      <description>From start to finish, the environment in Sunburn is perhaps more of an expression and representation of Lucy&amp;rsquo;s feelings and emotions than anything else we see from her. And this is not to say that we do not get a deep exploration of her thoughts and feelings throughout the text, but rather that the imagery of her rural environment, especially the titular sun, is so importantly a part of her thoughts and feelings that it is impossible to separate the two.</description>
+      <guid>http://localhost:1313/posts/sunburn/</guid>
+      <description>The third book which I&amp;rsquo;ve rated 10/10 with sun in its title (see: She Who Became the Sun, Klara and the Sun); Sunburn is a heart wrenching exploration of childhood and early adulthood in a deeply traditional, rural Irish upbringing. There is so much to talk about from this book and I adored it deeply, but something about it just made me really want to write about the way it uses the environment.</description>
     </item>
   </channel>
 </rss>

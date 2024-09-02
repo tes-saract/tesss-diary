@@ -4,6 +4,13 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+.img_cover {
+    width: 50%;
+    margin-left: 15x; 
+    display: inline-block;
+    float:left;
+}
+
 code {
   padding: 2px 4px;
   font-size: 90%;

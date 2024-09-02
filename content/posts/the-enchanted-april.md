@@ -4,8 +4,9 @@ tags:
   - classics
 categories: books
 date: 2024-07-18
-title: The Enchanted April
+title: I find another book written before the 1960s and shock myself by enjoying it
 ---
+<img style="float: right;" src="/posts/TheEnchantedApril.jpg" width="250" class="img_cover">
 Every time I read a book written before like the 1960s I am kind of always surprised by how funny they are and that probably says a lot about me as a person. Especially this and Emma (by Jane Austen) are both some of the funniest books I have read in such a long time that at this point I probably shouldn't be shocked.
 
 I don't have a huge number of particularly deep or analyticaly thoughts about the book, but it was hilariously and beautifully written - I adored the four main characters who were all deeply interesting and unique, especially of these Lotte and Lady Charlotte were probably my two favourite characters in the text. To be particular about the writing, the way in which the 'magic' of San Salvatore was conveyed through the imagery and character growth (especially Lotte her persistent belief in the magic and her visions are one of my favourite parts of her) over the course of the text made it just such a pleasure to read. The humour is dry and very well done too in a way that reminds me a huge amount of Austen's writing, and the writing also makes me wonder if Von Arnim had ADHD because I know I like to use too much punctuation in one sentence because of it (probably) and she definitely does the same in this book (in the best way, that is; I really enjoy this kind of writing).

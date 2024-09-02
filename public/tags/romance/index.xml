@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Romance on tess&#39; diary</title>
-    <link>https://tes-saract.github.io/tags/romance/</link>
+    <link>http://localhost:1313/tags/romance/</link>
     <description>Recent content in Romance on tess&#39; diary</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jul 2024 02:01:58 +0530</lastBuildDate>
-    <atom:link href="https://tes-saract.github.io/tags/romance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/romance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Dawnhounds</title>
+      <link>http://localhost:1313/posts/the-dawnhounds/</link>
+      <pubDate>Mon, 08 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/posts/the-dawnhounds/</guid>
+      <description>Just full spoilers in this one, it&amp;rsquo;s too hard to talk about the world without them. This is also a book that my thoughts about will definitely likely change once the sequel comes out - there was a lot of time spent on worldbuilding, mystery, and characterisation that was done really interestingly but didn&amp;rsquo;t pay out in this book and I&amp;rsquo;m not yet certain if I enjoyed that fully or not.</description>
+    </item>
     <item>
       <title>The Goode Governor</title>
-      <link>https://tes-saract.github.io/posts/the-goode-governor/</link>
+      <link>http://localhost:1313/posts/the-goode-governor/</link>
       <pubDate>Mon, 08 Jul 2024 02:01:58 +0530</pubDate>
-      <guid>https://tes-saract.github.io/posts/the-goode-governor/</guid>
+      <guid>http://localhost:1313/posts/the-goode-governor/</guid>
       <description>One of many queer romance novels I&amp;rsquo;ve read recently, but the one I felt like writing about, The Goode Governor (awful name aside like come on) actually surprised me a lot. Centrally in portraying two highly intelligent and motivated queer women which is something that really I don&amp;rsquo;t see much in any romance novels. Reflecting on this, it feels like a lot of the time there is one smart/motivated character in the couple and the other it there to play a foil to them.</description>
     </item>
   </channel>
