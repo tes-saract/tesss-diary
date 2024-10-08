@@ -192,7 +192,7 @@ Violet's relationship with her sister Blake and her parents was really compellin
 
 "*'it just felt... relieving,' Violet said with a sigh. 'Like I wasn't hiding. Or pretending to be someone I wasn't. And no one cared. And even if they did, what they thought didn't matter.'*"
 
-[^12]: <img  src="/posts/ALittleSin.jpg" width="200">
+[^12]: <img  src="/posts/ALittleSIn.jpg" width="200">
 [^13]: My therapist has informed me that it is wise to mention that I do actually go to therapy, and that therapy is amazing and really a much better idea than trying to solve personal problems solely through an individual intimate relationship but this felt too funny to write so it's staying in.
 
 ## The Dominion Series
