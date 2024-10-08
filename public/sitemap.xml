@@ -3,16 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-01T09:10:45+10:00</lastmod>
+    <lastmod>2024-09-30T18:53:13+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-01T09:10:45+10:00</lastmod>
+    <lastmod>2024-09-30T18:53:13+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/september-books/</loc>
+    <lastmod>2024-09-30T18:53:13+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-bell-jar/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/august-books/</loc>
     <lastmod>2024-09-01T09:10:45+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/yellowface/</loc>
     <lastmod>2024-08-08T22:43:48+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/living-on-stolen-land/</loc>
+    <lastmod>2024-08-05T22:42:55+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/live/</loc>
+    <lastmod>2024-08-05T22:22:17+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/books/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
@@ -32,6 +44,18 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/autobiography/</loc>
+    <lastmod>2024-07-15T14:01:58+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/history/</loc>
+    <lastmod>2024-07-15T14:01:58+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/non-fiction/</loc>
+    <lastmod>2024-07-15T14:01:58+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-autobiography-of-malcolm-x/</loc>
+    <lastmod>2024-07-15T14:01:58+10:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/a-magical-girl-retires/</loc>
     <lastmod>2024-07-09T14:01:58+10:00</lastmod>
   </url><url>
@@ -41,13 +65,19 @@
     <loc>http://localhost:1313/tags/queer/</loc>
     <lastmod>2024-07-09T14:01:58+10:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/romance/</loc>
+    <lastmod>2024-07-08T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-dawnhounds/</loc>
+    <lastmod>2024-07-08T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-goode-governor/</loc>
+    <lastmod>2024-07-08T02:01:58+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/essays/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/feminism/</loc>
-    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/non-fiction/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/the-straight-mind/</loc>

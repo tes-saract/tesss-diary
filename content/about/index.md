@@ -1,20 +1,20 @@
 ## about me
 
-i like to learn, analyse, and understand. slowly shaping myself. 🏳️‍⚧️🧡🤍🩷
+I like to learn and overthink :) 🏳️‍⚧️🧡🤍🩷
 
 Pisces sun, Sagittarius moon, and Aries rising
 ### what am I doing now?
-(updated July 20th, 2024)
+(updated 1st October, 2024)
 
-- 🔬 research assistant at [ProCan](https://www.cmrijeansforgenes.org.au/research/research-teams/procan)
+- 🔬 research assistant in the Westmead health precinct, focusing on [mass spectrometry](https://www.ncbi.nlm.nih.gov/books/NBK589702/)-based proteomics
 - 📖 aiming to read [200 books](https://app.thestorygraph.com/stats/tessaract?year=2024) in 2024. please do recommend more
-- 🎮 currently playing through Cyberpunk 2077 (very slowly)
-- 💻 learning how website things work ([Hugo](https://gohugo.io), [Vercel](https://vercel.com/) ) to build this blog!
+- 🎮 currently playing through Cyberpunk 2077 for the second time now!
+- 💻 learning how website things work ([Hugo](https://gohugo.io), [Vercel](https://vercel.com/) ) to build this blog
 
 ### music
 albums i'm listening to
  - Charm - [Clairo](https://clairo.com)
- - The G.A.T... - [Mach-Hommy](https://www.mach-hommy.com)
+ - Brat - [Charli XCX](https://www.charlixcx.com)
  - Please Don't Cry - [Rapsody](https://twitter.com/rapsody)
 
 songs i'm listening to

@@ -23,6 +23,27 @@
       <description></description>
     </item>
     <item>
+      <title>Autobiography</title>
+      <link>http://localhost:1313/tags/autobiography/</link>
+      <pubDate>Mon, 15 Jul 2024 14:01:58 +1000</pubDate>
+      <guid>http://localhost:1313/tags/autobiography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Mon, 15 Jul 2024 14:01:58 +1000</pubDate>
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Non-Fiction</title>
+      <link>http://localhost:1313/tags/non-fiction/</link>
+      <pubDate>Mon, 15 Jul 2024 14:01:58 +1000</pubDate>
+      <guid>http://localhost:1313/tags/non-fiction/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Fantasy</title>
       <link>http://localhost:1313/tags/fantasy/</link>
       <pubDate>Tue, 09 Jul 2024 14:01:58 +1000</pubDate>
@@ -37,6 +58,13 @@
       <description></description>
     </item>
     <item>
+      <title>Romance</title>
+      <link>http://localhost:1313/tags/romance/</link>
+      <pubDate>Mon, 08 Jul 2024 02:01:58 +0530</pubDate>
+      <guid>http://localhost:1313/tags/romance/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Essays</title>
       <link>http://localhost:1313/tags/essays/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
@@ -48,13 +76,6 @@
       <link>http://localhost:1313/tags/feminism/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/feminism/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Non-Fiction</title>
-      <link>http://localhost:1313/tags/non-fiction/</link>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/non-fiction/</guid>
       <description></description>
     </item>
     <item>

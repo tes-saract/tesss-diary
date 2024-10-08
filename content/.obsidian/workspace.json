@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/august-books.md",
+                "file": "posts/september-books.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/august-books.md",
+                "file": "posts/september-books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/august-books.md",
+                "file": "posts/september-books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/august-books.md"
+                "file": "posts/september-books.md"
               }
             }
           }
@@ -148,30 +148,32 @@
   },
   "active": "8dac08fe5fb02a2f",
   "lastOpenFiles": [
-    "posts/Edgedancer.jpg",
-    "posts/Edgedancer.jpg.crdownload",
-    "posts/TheDeadCatTailAssassins.png",
-    "posts/TheDeadCatTailAssassins.png.crdownload",
-    "posts/NearToTheWildHeart.jpg",
-    "posts/NearToTheWildHeart.jpg.crdownload",
-    "posts/KissOfSeduction.jpg",
-    "posts/KissOfSeduction.jpg.crdownload",
-    "posts/RainbowBlack.jpg",
-    "posts/RainbowBlack.jpg.crdownload",
-    "posts/GoodeNews.jpg",
-    "posts/GoodeNews.jpg.crdownload",
-    "posts/Earthlings.jpg",
-    "posts/Earthlings.jpg.crdownload",
-    "posts/JadeLegacy.jpg",
-    "posts/GuavaFlavoredLies.jpg",
-    "posts/GuavaFlavoredLies.jpg.crdownload",
-    "posts/JadeWar.jpg",
-    "posts/JadeWar.jpg.crdownload",
-    "posts/SomethingToTalkAbout.jpg",
-    "posts/SomethingToTalkAbout.jpg.crdownload",
+    "posts/august-books.md",
+    "posts/september-books.md",
+    "posts/TheHouseOnMangoStreet.jpg",
+    "posts/TheHouseOnMangoStreet.jpg.crdownload",
+    "posts/ALittleSIn.jpg",
+    "posts/ALittleSIn.jpg.crdownload",
+    "posts/LosingControl.jpg",
+    "posts/LosingControl.jpg.crdownload",
+    "about/index.md",
+    "posts/KissOfLove.jpg",
+    "posts/KissOfLove.jpg.crdownload",
+    "posts/AnnaKarenina.jpg",
+    "posts/AnnaKarenina.jpg.crdownload",
+    "posts/Penance.png",
+    "posts/Penance.png.crdownload",
+    "posts/TheSecretLivesOfChurchLadies.jpg",
+    "posts/TheSecretLivesOfChurchLadies.jpg.crdownload",
+    "posts/TheBellJar.jpg",
+    "posts/TheBellJar.jpg.crdownload",
+    "posts/StudyYou.jpg",
+    "posts/StudyYou.jpg.crdownload",
+    "posts/PostcolonialLovePoem.jpg",
+    "posts/PostcolonialLovePoem.jpg.crdownload",
+    "posts/the-bell-jar.md",
     "posts/sunburn.md",
     "posts/living-on-stolen-land.md",
-    "posts/august-books.md",
     "posts/the-enchanted-april.md",
     "posts/a-magical-girl-retires.md",
     "posts/yellowface.md",
@@ -179,7 +181,6 @@
     "posts/the-dawnhounds.md",
     "posts/the-autobiography-of-malcolm-x.md",
     "posts/live.md",
-    "posts/the-straight-mind.md",
-    "about/index.md"
+    "posts/the-straight-mind.md"
   ]
 }
